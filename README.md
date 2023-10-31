@@ -1,5 +1,5 @@
 
-# project-wanderlust
+# Project-Wanderlust
 
  This project was created from local system
  It's a Full Stack Project based on MERN Development
