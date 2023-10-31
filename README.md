@@ -5,7 +5,7 @@
  It's a Full Stack Project based on MERN Development
  
 #  Frontend:
-1. HTNL5
+1. HTML5
 2. CSS3
 3. BOOTSTRAP
 4. JAVA SCRIPT
@@ -15,10 +15,12 @@
 2. EXPRESS.JS
 
 # Database
-1.MONGO-DB
+1. MONGO-DB
 
-React.js part is on upgrade 
-This project also have 
+# Other
+React.js part is on upgrade.  This project also have implemented with  MVC Freamwork / REST API'S / AJAX / 
+
+  
 
 
 
