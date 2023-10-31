@@ -1,7 +1,5 @@
 {
-  "engines": {
-    "node": "18.17.1"
-  },
+
   "name": "majorproject",
   "version": "1.0.0",
   "description": "",
