@@ -8,7 +8,7 @@
 #  Frontend:
 1. HTML5
 2. CSS3
-3.JAVA SCRIPT
+   3.JAVA SCRIPT
 
 # Backend:
 1. NODE.JS
