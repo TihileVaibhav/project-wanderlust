@@ -16,8 +16,7 @@
 1. MONGO-DB
 
 # Framework
-1. REACT.JS
-2. BOOTSTRAP
+1. BOOTSTRAP
 
 # Other
   This project also have implemented with  MVC Freamwork / REST API'S / AJAX / 
